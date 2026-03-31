@@ -12,7 +12,7 @@
   <tr>
     <td width="55%" style="border: none;">
       <h2 style="border-bottom: none;"> 👨‍💻 Sobre Mim</h2>
-      <p>Olá! Sou o <b>Wesley Samuel</b> (também conhecido como Samuel), estudante de <b>Ciência da Computação</b> na Faculdade Internacional da Paraíba (FPB).</p>
+      <p>Olá! Sou o <b>Wesley Samuel</b> (também conhecido como Samuel), Graduado em <b>Ciência da Computação</b> na Faculdade Internacional da Paraíba (FPB).</p>
       <p>Sou apaixonado por transformar desafios lógicos em soluções funcionais. Atualmente focado no desenvolvimento de sistemas robustos e análise de dados.</p>
       <ul style="list-style-type: none; padding-left: 0;">
         <li>🚀 <b>Início da Jornada:</b> 2023</li>
