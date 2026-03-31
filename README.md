@@ -59,13 +59,16 @@
 ---
 
 ### 🚀 Projetos em destaque (WSistemas)
- <div align="center">
-   
-| | Vitrine Técnica ||
+ <div align="center">
+   
+| | Vitrine Técnica | |
 | --- | --- | -- |
 | **Movie Analytics Pro** | **PayGuardian** | **Projeto Memorize** |
-| <a href="https://github.com/WSamuelFR/movie-analytics-pro" target="_blank"><img height="150" width="230" src="https://github.com/WSamuelFR/movie-analytics-pro/blob/main/prints/print_main.png?raw=true" alt="Movie Analytics Pro"></a> | <a href="https://github.com/WSamuelFR/payguardian" target="_blank"><img height="150" width="230" src="https://github.com/WSamuelFR/payguardian/blob/main/prints/tela.png?raw=true" alt="PayGuardian"></a> | <a href="https://github.com/WSamuelFR/projeto_memorize" target="_blank"><img height="150" width="230" src="https://github.com/WSamuelFR/projeto_memorize/blob/main/prints/lobby_java.jfif?raw=true" alt="Projeto Memorize"></a> 
-| *Análise de Dados & IA* | *Finanças em Kotlin* | *Estudo Desktop em Java* | 
+| <a href="https://github.com/WSamuelFR/movie-analytics-pro" target="_blank"><img height="150" width="230" src="https://github.com/WSamuelFR/movie-analytics-pro/blob/main/prints/print_main.png?raw=true" alt="Movie Analytics Pro"></a> | <a href="https://github.com/WSamuelFR/payguardian" target="_blank"><img height="150" width="230" src="https://github.com/WSamuelFR/payguardian/blob/main/prints/tela.png?raw=true" alt="PayGuardian"></a> | <a href="https://github.com/WSamuelFR/projeto_memorize" target="_blank"><img height="150" width="230" src="https://github.com/WSamuelFR/projeto_memorize/blob/main/prints/lobby_java.jfif?raw=true" alt="Projeto Memorize"></a> |
+| *Análise de Dados & IA* | *Finanças em Kotlin* | *Estudo Desktop em Java* |
+| **Projeto Kurta** | **Projeto Portfólio** | |
+| <a href="https://github.com/WSamuelFR/Projeto_Kurta" target="_blank"><img height="150" width="230" src="https://github.com/WSamuelFR/Projeto_Kurta/blob/main/public/assets/files/print_perfil.png?raw=true" alt="Projeto Kurta"></a> | <a href="https://github.com/WSamuelFR/Projeto_Portifolio" target="_blank"><img height="150" width="230" src="https://github.com/WSamuelFR/Projeto_Portifolio/blob/main/screenshots/sobre_mim.png?raw=true" alt="Projeto Portfólio"></a> | |
+| *Rede social de textos* | *Portifolio Profissional* | |
 
 </div>
 <br>
