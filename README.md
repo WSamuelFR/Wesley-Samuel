@@ -13,7 +13,7 @@
     <td width="55%" style="border: none;">
       <h2 style="border-bottom: none;"> 👨‍💻 Sobre Mim</h2>
       <p>Olá! Sou o <b>Wesley Samuel</b> (também conhecido como Samuel), Graduado em <b>Ciência da Computação</b> na Faculdade Internacional da Paraíba (FPB).</p>
-      <p>Sou apaixonado por transformar desafios lógicos em soluções funcionais. Atualmente focado no desenvolvimento de sistemas robustos e análise de dados.</p>
+      <p>Sou apaixonado por transformar desafios lógicos em soluções funcionais. Atualmente focado no desenvolvimento de sistemas robustos e infraestrutura de TI.</p>
       <ul style="list-style-type: none; padding-left: 0;">
         <li>🚀 <b>Início da Jornada:</b> 2023</li>
         <li>🎓 <b>Previsão de Conclusão:</b> 2026</li>
@@ -50,32 +50,11 @@
 | --- | --- |
 | **Data & AI** | Python, Pandas, Scikit-Learn, Streamlit |
 | **Mobile Development** | Kotlin, Jetpack Compose, SQLite |
-| **Backend & Web** | Java SE, PHP, Laravel, Node.js |
-| **Desktop** | Java Swing, AWT |
+| **Backend & Web** | Java SE, PHP, Laravel, Node.js | Vue.js
+| **Desktop** | Java Swing, AWT, Electron.js |
 | **Infra & Suporte** | Manutenção de Hardware, Redes, Linux |
 
 </div>  
-
----
-
-### 🚀 Projetos em destaque (WSistemas)
- <div align="center">
-   
-| | Vitrine Técnica | |
-| --- | --- | -- |
-| **Movie Analytics Pro** | **PayGuardian** | **Projeto Memorize** |
-| <a href="https://github.com/WSamuelFR/movie-analytics-pro" target="_blank"><img height="150" width="230" src="https://github.com/WSamuelFR/movie-analytics-pro/blob/main/prints/print_main.png?raw=true" alt="Movie Analytics Pro"></a> | <a href="https://github.com/WSamuelFR/payguardian" target="_blank"><img height="150" width="230" src="https://github.com/WSamuelFR/payguardian/blob/main/prints/tela.png?raw=true" alt="PayGuardian"></a> | <a href="https://github.com/WSamuelFR/projeto_memorize" target="_blank"><img height="150" width="230" src="https://github.com/WSamuelFR/projeto_memorize/blob/main/prints/lobby_java.jfif?raw=true" alt="Projeto Memorize"></a> |
-| *Análise de Dados & IA* | *Finanças em Kotlin* | *Estudo Desktop em Java* |
-| **Projeto Kurta** | **Projeto Portfólio** | |
-| <a href="https://github.com/WSamuelFR/Projeto_Kurta" target="_blank"><img height="150" width="230" src="https://github.com/WSamuelFR/Projeto_Kurta/blob/main/public/assets/files/print_perfil.png?raw=true" alt="Projeto Kurta"></a> | <a href="https://github.com/WSamuelFR/Projeto_Portifolio" target="_blank"><img height="150" width="230" src="https://github.com/WSamuelFR/Projeto_Portifolio/blob/main/screenshots/sobre_mim.png?raw=true" alt="Projeto Portfólio"></a> | |
-| *Rede social de textos* | *Portifolio Profissional* | |
-
-</div>
-<br>
-
-Clique em qualquer card para explorar o código. Cada repositório contém documentação detalhada, análise de requisitos e guias de execução.
-
----
 
 ### 🤝 Vamos nos conectar?
 <div align="center">
